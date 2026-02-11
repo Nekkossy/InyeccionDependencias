@@ -2,5 +2,9 @@
   {
     "dni": "12345678A",
     "nombre": "Ana"
+  },
+  {
+    "dni": "123",
+    "nombre": "Alejandra"
   }
 ]
